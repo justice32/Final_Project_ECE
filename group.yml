@@ -1,0 +1,18 @@
+# Enter your personal information and delete unused entries
+--- 
+- first: VLADYSLAV
+  last: YUSIUK
+  watiam: vyusiuk
+  student: 21050623
+  email: vyusiuk@uwaterloo.ca
+- first: AISWARYA
+  last: TOM
+  watiam: a2tom
+  student: 21051073
+  email: a2tom@uwaterloo.ca
+- first: Zhiyuan
+  last: Ning
+  watiam: z23ning
+  student: 21050449
+  email: z23ning@uwaterloo.ca
+...

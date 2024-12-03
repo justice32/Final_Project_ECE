@@ -1,0 +1,4 @@
+a1/venv
+.coverage
+__pycache__
+.idea/
